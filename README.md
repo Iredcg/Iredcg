@@ -13,6 +13,7 @@ I aim to integrate my genetics and bioinformatics expertise with my evolving dat
 - [Data Analysis(Python)](https://github.com/Iredcg/Data-Analysis-with-Python): Panda-analysis-of-Discount-Data-Analysis-for-Eniac-A-Comprehensive-Overview
 - [Data Analysis(SQL)](https://github.com/Iredcg/Data-Analysis-with-SQL-Tableu): Exploring-market-expansion-opportunities-for-a-Spanish-company-in-Brazil
 - [Data-Engineering(Web Scraping, APIs, and Cloud Automation)](https://github.com/Iredcg/Data-Engineering):Predict e-scooters movement from Gans
+- [Housing-Price-Estimation(Supervised Machine Learning)](https://github.com/Iredcg/Housing-Price-Estimation):Predictive Analytics in Real Estate: Housing Price Estimation
   
 ### 📫 How to reach me: ...
 
