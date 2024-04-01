@@ -15,5 +15,7 @@ I aim to integrate my genetics and bioinformatics expertise with my evolving dat
 - [Data-Engineering(Web Scraping, APIs, and Cloud Automation)](https://github.com/Iredcg/Data-Engineering):Predict e-scooters movement from Gans
 - [Housing-Price-Estimation(Supervised Machine Learning)](https://github.com/Iredcg/Housing-Price-Estimation):Predictive Analytics in Real Estate: Housing Price Estimation
   
-### 📫 How to reach me: ...
+### 📫 How to reach me: 
+email:iredcguerisol@gmail.com
+
 
